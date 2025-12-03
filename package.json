@@ -66,6 +66,7 @@
 		"ignore": [
 			".github/workflows",
 			"appveyor.yml",
+			"CONTRIBUTING.md",
 			"test/resolver/malformed_package_json",
 			"test/list-exports"
 		]
